@@ -1,4 +1,4 @@
-# housing-price-regression-hgb
+# housing-price-Prediction
 
 Predicting California median house values using machine learning regression techniques on the 
 California Housing dataset. The project covers end-to-end ML workflow — EDA, preprocessing, 
